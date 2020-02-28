@@ -14,6 +14,6 @@
 3. **Task 3**: Dictionaries.
 4. **Task 4**: Linking files to navbar.
 
-## Day2
+## Day3
 
 1. **Task 1**: Create a portfolio site for Solution Anywhere Company.
