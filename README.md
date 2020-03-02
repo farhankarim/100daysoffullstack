@@ -22,3 +22,7 @@
 
 1. **Task 1**: [Basic CSS styles](https://friendly-knuth-f5856d.netlify.com)
 
+
+## Day5
+
+1. **Task 1**: Create a basic site with css.
